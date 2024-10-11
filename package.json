@@ -1,0 +1,9 @@
+{
+  "name": "@reservoirv/log",
+  "version": "0.0.1",
+  "description": "Short alias 'console[log|warn|error]()'",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Nikinin Vladimir <vreservoirv@ramler.ru>",
+  "license": "ISC"
+}
