@@ -3,7 +3,13 @@
   "version": "0.0.1",
   "description": "Short alias 'console[log|warn|error]()'",
   "main": "index.js",
+  "repository": "https://github.com/NikitinVladimirV/log.git",
   "scripts": {},
+  "keywords": [
+    "console",
+    "log",
+    "short"
+  ],
   "author": "Nikinin Vladimir <vreservoirv@ramler.ru>",
   "license": "ISC"
 }
